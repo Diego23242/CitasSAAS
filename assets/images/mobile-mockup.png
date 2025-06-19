@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="100" viewBox="0 0 50 100">
+  <rect width="50" height="100" fill="darkgrey"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="8px" font-family="sans-serif" transform="rotate(-90 25 50) translate(0, -15)">Mobile Mockup</text>
+</svg>
