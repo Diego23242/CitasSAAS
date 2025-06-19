@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="100" viewBox="0 0 150 100">
+  <rect width="150" height="100" fill="silver"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="10px" font-family="sans-serif">Desktop Mockup</text>
+</svg>
